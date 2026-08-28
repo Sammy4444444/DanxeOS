@@ -1,0 +1,4 @@
+D:/AnimeOS/build/CMakeFiles/kernel.elf.dir
+D:/AnimeOS/build/CMakeFiles/boot_disk.dir
+D:/AnimeOS/build/CMakeFiles/edit_cache.dir
+D:/AnimeOS/build/CMakeFiles/rebuild_cache.dir
